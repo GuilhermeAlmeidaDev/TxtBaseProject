@@ -1,7 +1,6 @@
-# Simple Crud with Python
+# CLI RPG Using Python
 
-nothing more. nothing less.
-
-[x] started the project
-[x] finished the code
-[ ] remember to comment the code!
+- [x] started the project
+- [x] finished the code
+- [ ] add more complexity to the code
+- [ ] remember to comment the code!
